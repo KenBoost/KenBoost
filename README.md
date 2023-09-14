@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **AWS Cloud and more advanced front end tools**
 
-- 💬 Ask me about **HTML, CSS and JavaScript**
+- 💬 Ask me about **HTML, CSS, SASS, NODE.JS, REACT AND JAVASCRIPT**
 
 - 📫 How to reach me **kennethmiranda56@gmail.com**
 
