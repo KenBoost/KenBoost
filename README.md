@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kenboost" alt="kenboost" /></a> </p>
 
-- 🔭 I’m currently working on **my Portfolio**
+- 🔭 I’m currently working on **A mobile app for Car Sales (android and iOS)**
 
 - 🌱 I’m currently learning **AWS Cloud, Linux, Next.JS and React Native**
 
