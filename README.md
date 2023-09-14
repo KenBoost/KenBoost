@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **my Portfolio**
 
-- 🌱 I’m currently learning **AWS Cloud and more advanced front end tools**
+- 🌱 I’m currently learning **AWS Cloud, Linux, Next.JS and React Native**
 
 - 💬 Ask me about **HTML, CSS, SASS, NODE.JS, REACT AND JAVASCRIPT**
 
