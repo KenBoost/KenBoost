@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kenboost" alt="kenboost" /></a> </p>
 
-- 🔭 I’m currently working on **Mobile vehicle sales software**
+- 🔭 I’m currently working on **Script in sql for Data Analysis**
 
-- 🌱 I’m currently learning **Reacts.js, Node.js, React Native,advanced SASS and Typescript**
+- 🌱 I’m currently learning **Reacts.js, Node.js, SQL, and After Python for Data Science**
 
 - 💬 Ask me about **Front End**
 
